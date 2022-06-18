@@ -1,4 +1,4 @@
-# studying java
+# Studying java
 
  
 Hello, welcome to my repository javathanks for visit. ✌
