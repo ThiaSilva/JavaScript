@@ -1,7 +1,7 @@
 # Studying javaSript
 
  
-Hello, welcome to my repository javathanks for visit. ✌
+Hello, welcome to my repository, thanks for visit. ✌
 
 this is my repository for post my codes in JavaScript. 💻
 
